@@ -1,0 +1,32 @@
+# 🎓 Student Management System (Java)
+
+## 📌 Project Description
+A console-based Student Management System developed using Core Java.
+The system allows users to manage student records using OOP concepts and ArrayList.
+
+## 🚀 Features
+- Add Student
+- Display All Students
+- Search Student by ID or Name
+- Delete Student
+- Menu-driven interface
+
+## 🛠 Concepts Used
+- Classes & Objects
+- Constructor
+- ArrayList
+- Methods
+- Encapsulation
+- OOP Principles
+
+## 📂 How It Works
+Student data is stored dynamically using ArrayList.
+Each student object contains details like ID, Name, and Marks.
+
+## ▶ How to Run
+1. Clone the repository
+2. Open in Eclipse / IntelliJ
+3. Run the main class
+
+## 👨‍💻 Author
+Rushikesh Walgude
